@@ -42,6 +42,8 @@ jobs:
         env:
           SITE_URL: ${{ steps.pages.outputs.base_url }}
         run: python scripts/build.py
+      - name: まる見え大田区を /marumie/ に入れる
+        run: cp -R marumie/docs site/marumie
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site

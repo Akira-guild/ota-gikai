@@ -40,9 +40,9 @@ python3 -m http.server 8777 -d docs
 
 ## 公開
 
-https://akira-guild.github.io/marumie-ota/
+https://akira-guild.github.io/ota-gikai/marumie/
 
-GitHub Pages の配信元は `main` ブランチの `/docs`。`build.py` で作った `docs/data.js` もコミットしておく（ビルドは手元で行う）。
+親リポジトリ（ota-gikai）の `.github/workflows/update.yml` が、`marumie/docs` を `site/marumie/` にコピーして GitHub Pages に一緒に公開する。`build.py` で作った `docs/data.js` もコミットしておく（ビルドは手元で行う）。
 
 ## 出典
 
