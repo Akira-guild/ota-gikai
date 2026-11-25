@@ -13,13 +13,13 @@
 ## しくみ
 
 ```
-raw/*.pdf ──parse_*.py──▶ data/*.json ──build.py──▶ site/data.js
-                                                    site/index.html・app.js・style.css（手書き）
+raw/*.pdf ──parse_*.py──▶ data/*.json ──build.py──▶ docs/data.js
+                                                    docs/index.html・app.js・style.css（手書き）
 ```
 
 - `scripts/parse_seimu.py` … 「政務活動費収支一覧」PDF → `data/seimu.json`。各会派の内訳の合計＝支出合計、会派の合計＝区の示す合計 を検算
 - `scripts/parse_budget.py` … 「各会計予算（議案）」第1表 → `data/budget.json`。款の合計＝総額、項の合計＝款 を検算（数字が `(cid:19)`〜`(cid:28)` で埋め込まれているのを復号）
-- `scripts/build.py` … JSON を `site/data.js` にまとめる（標準ライブラリのみ）
+- `scripts/build.py` … JSON を `docs/data.js` にまとめる（標準ライブラリのみ）
 - サンキー図は外部ライブラリなしの自前SVG
 
 ## 手元で動かす
@@ -29,7 +29,7 @@ python3 -m venv .venv && .venv/bin/pip install pdfplumber
 .venv/bin/python scripts/parse_seimu.py
 .venv/bin/python scripts/parse_budget.py
 python3 scripts/build.py
-python3 -m http.server 8777 -d site
+python3 -m http.server 8777 -d docs
 ```
 
 ## データを足すとき
@@ -42,7 +42,7 @@ python3 -m http.server 8777 -d site
 
 https://akira-guild.github.io/marumie-ota/
 
-`main` に push すると `.github/workflows/pages.yml` が GitHub Pages に公開する。
+GitHub Pages の配信元は `main` ブランチの `/docs`。`build.py` で作った `docs/data.js` もコミットしておく（ビルドは手元で行う）。
 
 ## 出典
 
