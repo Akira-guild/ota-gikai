@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>まる見え大田区</title>
+<meta name="description" content="大田区のお金の流れ（一般会計予算・区議会の政務活動費）をサンキー図で見える化する非公式サイト">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Cg fill='%23C2366B'%3E%3Ccircle cx='20' cy='9' r='8'/%3E%3Ccircle cx='30.5' cy='16.6' r='8'/%3E%3Ccircle cx='26.5' cy='29' r='8'/%3E%3Ccircle cx='13.5' cy='29' r='8'/%3E%3Ccircle cx='9.5' cy='16.6' r='8'/%3E%3C/g%3E%3Ccircle cx='20' cy='20' r='4.5' fill='%23F2C14E'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css?v=2">
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-in">
+    <a class="logo" href="#">
+      <svg viewBox="0 0 40 40" aria-hidden="true"><g class="petal"><circle cx="20" cy="9" r="8"/><circle cx="30.5" cy="16.6" r="8"/><circle cx="26.5" cy="29" r="8"/><circle cx="13.5" cy="29" r="8"/><circle cx="9.5" cy="16.6" r="8"/></g><circle cx="20" cy="20" r="4.5" class="pistil"/></svg>
+      <span><b>まる見え大田区</b><small>大田区のお金の流れ・非公式</small></span>
+    </a>
+    <nav>
+      <a href="#budget">区の予算</a>
+      <a href="#seimu">政務活動費</a>
+      <a href="#about">データについて</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <div class="wrap">
+      <p class="eyebrow">OTA CITY MONEY, FULLY VISIBLE</p>
+      <h1>区のお金は、<br class="sp">どこから来て、<br>どこへ行く？</h1>
+      <p class="lead">大田区が公開しているPDFの数字を読み取り、お金の流れを一枚の図にしました。左が入ってくるお金、右が使い道。線の太さが金額です。</p>
+    </div>
+  </section>
+
+  <!-- 区の予算 -->
+  <section id="budget" class="block">
+    <div class="wrap">
+      <div class="sec-head">
+        <div>
+          <p class="sec-kicker">1 / 区のお金</p>
+          <h2>大田区の一般会計予算</h2>
+        </div>
+        <div class="seg" id="budget-year"></div>
+      </div>
+      <div class="cards" id="budget-cards"></div>
+      <div class="panel">
+        <div class="panel-head">
+          <p class="panel-title">歳入（入るお金）から歳出（使い道）へ</p>
+          <div class="seg small" id="budget-level">
+            <button data-v="kan" class="on">大きな区分</button>
+            <button data-v="kou">くわしく</button>
+          </div>
+        </div>
+        <div class="chart-scroll"><div id="budget-sankey"></div></div>
+        <p class="hint sp-only">← 図は横にスクロールできます →</p>
+      </div>
+      <div class="two">
+        <div class="panel">
+          <p class="panel-title">入ってくるお金の内訳</p>
+          <ul class="explain" id="budget-rev-list"></ul>
+        </div>
+        <div class="panel">
+          <p class="panel-title">使い道の内訳</p>
+          <ul class="explain" id="budget-exp-list"></ul>
+        </div>
+      </div>
+      <p class="note">予算は「この1年でこう集めて、こう使う」という計画です。実際の結果（決算）とは違います。数字は区議会で議決された当初予算です。</p>
+    </div>
+  </section>
+
+  <!-- 政務活動費 -->
+  <section id="seimu" class="block alt">
+    <div class="wrap">
+      <div class="sec-head">
+        <div>
+          <p class="sec-kicker">2 / 区議会のお金</p>
+          <h2>区議会の政務活動費</h2>
+        </div>
+        <div class="seg" id="seimu-year"></div>
+      </div>
+      <p class="sec-lead">政務活動費は、区議会議員の調査研究などの活動のために、議員1人あたり<b>月23万円</b>を会派（議員のグループ）にまとめて交付するお金です。使わなかった分は区に返し、足りない分は会派が自分で負担します。</p>
+      <div class="cards" id="seimu-cards"></div>
+      <div class="panel">
+        <p class="panel-title">会派への交付から使い道へ</p>
+        <div class="chart-scroll"><div id="seimu-sankey"></div></div>
+        <p class="hint sp-only">← 図は横にスクロールできます →</p>
+      </div>
+
+      <div class="panel">
+        <p class="panel-title">会派ごとに見る</p>
+        <div class="chips" id="kaiha-chips"></div>
+        <div id="kaiha-detail"></div>
+      </div>
+
+      <div class="panel">
+        <p class="panel-title">会派 × 使い道（支出に占める割合）</p>
+        <div class="table-scroll"><table class="heat" id="seimu-table"></table></div>
+        <p class="note">色が濃いほど、その会派の支出の中でその使い道の割合が大きいことを示します。</p>
+      </div>
+
+      <div class="two">
+        <div class="panel">
+          <p class="panel-title">年度ごとの推移</p>
+          <div id="seimu-trend"></div>
+        </div>
+        <div class="panel">
+          <p class="panel-title">使い道の区分（一般的な例）</p>
+          <dl class="cats" id="seimu-cats"></dl>
+        </div>
+      </div>
+
+      <div class="callout">
+        <p><b>2026年の政務活動費をめぐる動き</b></p>
+        <p>2026年5月、大田区議会は所属議員による政務活動費の不正受給が判明したとして議長コメントを出し、8月には調査報告書をまとめて区長に報告しました。ここに載せている数字は区議会が公表した会派ごとの合計で、領収書1枚ずつの明細ではありません。</p>
+        <p class="links"><a href="https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/comment/r8nen/R080501comment.html" target="_blank" rel="noopener">議長コメント（2026年5月1日）</a><a href="https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/comment/r8nen/R080803_comment-houkokusyo.html" target="_blank" rel="noopener">調査報告書について（2026年8月3日）</a></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- データについて -->
+  <section id="about" class="block">
+    <div class="wrap narrow">
+      <p class="sec-kicker">3 / データについて</p>
+      <h2>公開の範囲と出典</h2>
+      <ul class="sources" id="sources"></ul>
+      <h3>読み取りのしかた</h3>
+      <p>区が公開しているPDFから表の数字をプログラムで読み取り、各行の合計が区の示す合計と一致することを確かめてから載せています。読み取りに使ったスクリプトとデータはこのサイトと一緒に置いています。</p>
+      <h3>免責事項</h3>
+      <p>このサイトは個人が作った非公式サイトで、大田区・大田区議会とは関係ありません。チームみらいの「まる見え政治資金」の見せ方を参考にしていますが、チームみらいとも関係ありません。数字の正確さ・完全さは保証できません。正式な数字は、区が公表している予算書・政務活動費収支一覧をご確認ください。</p>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p><b>まる見え大田区</b>（非公式）</p>
+    <p class="muted" id="built"></p>
+  </div>
+</footer>
+
+<div id="tip" class="tip" hidden></div>
+<script src="data.js?v=2"></script>
+<script src="app.js?v=2"></script>
+</body>
+</html>
