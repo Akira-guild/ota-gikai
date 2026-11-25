@@ -174,12 +174,12 @@ def load():
 # ---------- 共通部品 ----------
 CSS = """
 :root{--brand:#b8325a;--brand-d:#9a2448;--accent:#2e7d4f;--ink:#1f1b1d;--sub:#6a6064;--line:#ece4e6;--bg:#faf6f4;--card:#fff;
---ok:#2e7d4f;--okbg:#e7f3ec;--ng:#3a3a3a;--ngbg:#ececec;--mid:#66652a;--midbg:#f3f2df;--chip:#fbeef1;
+--ok:#2e7d4f;--okbg:#e7f3ec;--ng:#3a3a3a;--ngbg:#ececec;--mid:#3d3a10;--midbg:#d3d1af;--uguisu:#928c36;--chip:#fbeef1;
 --grad:linear-gradient(100deg,#9a2448 0%,#c23a62 55%,#d65a7c 100%)}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--brand:#f08aa6;--brand-d:#f5a9bd;--accent:#6fcf97;--ink:#efe8ea;--sub:#aaa0a4;--line:#3a2e33;--bg:#171214;--card:#221a1d;
---ok:#6fcf97;--okbg:#14301f;--ng:#d6d6d6;--ngbg:#333;--mid:#d6d38a;--midbg:#2f2e14;--chip:#3a2029}}
+--ok:#6fcf97;--okbg:#14301f;--ng:#d6d6d6;--ngbg:#333;--mid:#efeab0;--midbg:#4a4720;--uguisu:#b3ac4a;--chip:#3a2029}}
 :root[data-theme="dark"]{--brand:#f08aa6;--brand-d:#f5a9bd;--accent:#6fcf97;--ink:#efe8ea;--sub:#aaa0a4;--line:#3a2e33;--bg:#171214;--card:#221a1d;
---ok:#6fcf97;--okbg:#14301f;--ng:#d6d6d6;--ngbg:#333;--mid:#d6d38a;--midbg:#2f2e14;--chip:#3a2029}
+--ok:#6fcf97;--okbg:#14301f;--ng:#d6d6d6;--ngbg:#333;--mid:#efeab0;--midbg:#4a4720;--uguisu:#b3ac4a;--chip:#3a2029}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:"Noto Sans JP",system-ui,sans-serif;line-height:1.85;font-size:16px;letter-spacing:.03em;-webkit-font-smoothing:antialiased}
 a{color:var(--brand-d)}
@@ -221,7 +221,7 @@ section{margin:40px 0}
 .item .off{font-size:12.5px;color:var(--sub)}
 .badge{display:inline-block;font-size:12px;font-weight:700;border-radius:999px;padding:1px 10px;line-height:1.7}
 .badge.ok{color:var(--ok);background:var(--okbg)}.badge.ng{color:var(--ng);background:var(--ngbg)}
-.badge.mid{color:var(--mid);background:var(--midbg)}.badge.none{color:var(--sub);background:var(--bg)}
+.badge.mid{color:var(--mid);background:var(--midbg);box-shadow:inset 0 0 0 1.5px var(--uguisu)}.badge.none{color:var(--sub);background:var(--bg)}
 .badge.soon{color:#fff;background:var(--accent)}
 .chips{display:flex;flex-wrap:wrap;gap:8px}
 .chip{display:inline-block;text-decoration:none;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:999px;padding:5px 14px;font-size:14px}
@@ -238,7 +238,7 @@ section{margin:40px 0}
 dl.kv{display:grid;grid-template-columns:7em 1fr;gap:4px 10px;font-size:14px;margin:0}
 dl.kv dt{color:var(--sub)}dl.kv dd{margin:0}
 .note{font-size:13px;color:var(--sub)}
-.notice{font-size:13.5px;background:var(--midbg);color:var(--mid);border-radius:10px;padding:10px 12px}
+.notice{font-size:13.5px;background:var(--midbg);color:var(--mid);border-radius:10px;padding:10px 12px;border-left:6px solid var(--uguisu)}
 .btn{display:inline-block;background:var(--brand);color:#fff;text-decoration:none;border:0;border-radius:999px;padding:9px 20px;font:inherit;font-weight:700;cursor:pointer}
 .btn:hover{background:var(--brand-d)}
 .crumbs{font-size:13px;color:var(--sub);margin-top:16px}
