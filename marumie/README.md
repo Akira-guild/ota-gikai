@@ -38,6 +38,12 @@ python3 -m http.server 8777 -d site
 - 予算：新しい年度の「各会計予算（議案）」PDFを `raw/` に置き、`parse_budget.py` の `FILES` に1行足す
 - 足したら `build.py` を実行し、`index.html` の `?v=` を上げる（キャッシュ対策）
 
+## 公開
+
+https://akira-guild.github.io/marumie-ota/
+
+`main` に push すると `.github/workflows/pages.yml` が GitHub Pages に公開する。
+
 ## 出典
 
 - 大田区「令和8年度 各会計予算（議案）」 https://www.city.ota.tokyo.jp/kuseijoho/suuji/yosan_kessan/yosan/r08yosan/r08-yosan.html
