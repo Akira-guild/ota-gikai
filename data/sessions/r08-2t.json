@@ -1,0 +1,642 @@
+{
+ "id": "r08-2t",
+ "name": "令和8年第2回定例会",
+ "era": 8,
+ "n": 2,
+ "type": "teirei",
+ "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2teirei/index.html",
+ "pages": [
+  {
+   "title": "区長提出議案",
+   "kind": "kucho",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2teirei/r0802teirei_kuchogian.html",
+   "pdfs": [
+    {
+     "label": "第58号議案（PDF：256KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2teirei/r0802teirei_kuchogian.files/r0802kuchogian58.pdf"
+    },
+    {
+     "label": "第59号議案から第66号議案（PDF：405KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2teirei/r0802teirei_kuchogian.files/r0802kuchogian59_66.pdf"
+    },
+    {
+     "label": "第67号議案から第73号議案（PDF：438KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2teirei/r0802teirei_kuchogian.files/r0802kuchogian67_73.pdf"
+    },
+    {
+     "label": "第74号議案から第75号議案（PDF：122KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2teirei/r0802teirei_kuchogian.files/r0802kuchogian74_75.pdf"
+    }
+   ],
+   "rows": [
+    {
+     "no": "58",
+     "title": "令和８年度大田区一般会計補正予算（第２次）",
+     "date": "令和8年6月25日",
+     "result": "原案可決\n（賛成者多数）",
+     "committee": "総務財政"
+    },
+    {
+     "no": "59",
+     "title": "大田区特別区税条例の一部を改正する条例",
+     "date": "令和8年6月25日",
+     "result": "原案可決\n（賛成者多数）",
+     "committee": "総務財政"
+    },
+    {
+     "no": "60",
+     "title": "大田区付属機関の設置等に関する条例の一部を改正する条例",
+     "date": "令和8年6月25日",
+     "result": "原案可決\n（全会一致）",
+     "committee": "総務財政"
+    },
+    {
+     "no": "61",
+     "title": "大田区立区民センター条例の一部を改正する条例",
+     "date": "令和8年6月25日",
+     "result": "原案可決\n（賛成者多数）",
+     "committee": "地域産業"
+    },
+    {
+     "no": "62",
+     "title": "大田区立特別養護老人ホーム条例に規定する大田区立特別養護老人ホーム蒲田の供用停止に関する条例",
+     "date": "令和8年6月25日",
+     "result": "原案可決\n（全会一致）",
+     "committee": "健康福祉"
+    },
+    {
+     "no": "63",
+     "title": "大田区立高齢者在宅サービスセンター条例の一部を改正する条例",
+     "date": "令和8年6月25日",
+     "result": "原案可決\n（全会一致）",
+     "committee": "健康福祉"
+    },
+    {
+     "no": "64",
+     "title": "大田区立シルバーピア条例に規定する大田区立シルバーピア蒲田の供用停止に関する条例",
+     "date": "令和8年6月25日",
+     "result": "原案可決\n（賛成者多数）",
+     "committee": "まちづくり環境"
+    },
+    {
+     "no": "65",
+     "title": "大田区立児童館条例に規定する大田区立蒲田児童館の供用停止に関する条例",
+     "date": "令和8年6月25日",
+     "result": "原案可決\n（全会一致）",
+     "committee": "こども文教"
+    },
+    {
+     "no": "66",
+     "title": "大田区立児童館条例の一部を改正する条例",
+     "date": "令和8年6月25日",
+     "result": "原案可決\n（賛成者多数）",
+     "committee": "こども文教"
+    },
+    {
+     "no": "67",
+     "title": "包括外部監査契約の締結について",
+     "date": "令和8年6月25日",
+     "result": "原案可決\n（全会一致）",
+     "committee": "総務財政"
+    },
+    {
+     "no": "68",
+     "title": "大田区立赤松小学校校舎（棟番号⑪－１ほか）取壊し及び外構整備その他工事請負契約について",
+     "date": "令和8年6月25日",
+     "result": "原案可決\n（賛成者多数）",
+     "committee": "総務財政"
+    },
+    {
+     "no": "69",
+     "title": "大田区立馬込第三小学校及び仮称大田区室生犀星資料館改築その他電気設備工事請負契約について",
+     "date": "令和8年6月25日",
+     "result": "原案可決\n（賛成者多数）",
+     "committee": "総務財政"
+    },
+    {
+     "no": "70",
+     "title": "大田区立安方中学校校舎改築その他電気設備工事（Ⅱ期）請負契約について",
+     "date": "令和8年6月25日",
+     "result": "原案可決\n（全会一致）",
+     "committee": "総務財政"
+    },
+    {
+     "no": "71",
+     "title": "大田区立安方中学校校舎改築その他機械設備工事（Ⅱ期）請負契約について",
+     "date": "令和8年6月25日",
+     "result": "原案可決\n（全会一致）",
+     "committee": "総務財政"
+    },
+    {
+     "no": "72",
+     "title": "大田スタジアム人工芝張替えその他工事請負契約について",
+     "date": "令和8年6月25日",
+     "result": "原案可決\n（全会一致）",
+     "committee": "総務財政"
+    },
+    {
+     "no": "73",
+     "title": "児童用防災ヘルメットの購入について",
+     "date": "令和8年6月25日",
+     "result": "原案可決\n（全会一致）",
+     "committee": "総務財政"
+    },
+    {
+     "no": "74",
+     "title": "大田区立南六郷くすのき園大規模改修機械設備工事（長寿命化）請負契約について",
+     "date": "令和8年6月25日",
+     "result": "原案可決\n（全会一致）",
+     "committee": "総務財政"
+    },
+    {
+     "no": "75",
+     "title": "大田区立入新井第二小学校校舎改築その他機械設備工事（Ⅰ期）請負契約の変更について",
+     "date": "令和8年6月25日",
+     "result": "原案可決\n（全会一致）",
+     "committee": "総務財政"
+    }
+   ]
+  },
+  {
+   "title": "報告",
+   "kind": "hokoku",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2teirei/r0802teirei_hokoku.html",
+   "pdfs": [
+    {
+     "label": "報告第26号から第29号（PDF：4,758KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2teirei/r0802teirei_hokoku.files/r0802hokoku26_29.pdf"
+    },
+    {
+     "label": "報告第30号から第31号（PDF：10,423KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2teirei/r0802teirei_hokoku.files/r0802hokoku30_31.pdf"
+    },
+    {
+     "label": "報告第32号から第34号（PDF：5,281KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2teirei/r0802teirei_hokoku.files/r0802hokoku32_34.pdf"
+    },
+    {
+     "label": "報告第35号（PDF：72KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2teirei/r0802teirei_hokoku.files/r0802hokoku35.pdf"
+    },
+    {
+     "label": "報告第36号から第37号（PDF：110KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2teirei/r0802teirei_hokoku.files/r0802hokoku36_37.pdf"
+    }
+   ],
+   "rows": [
+    {
+     "no": "26",
+     "title": "令和７年度大田区繰越明許費繰越計算書",
+     "date": "(令和8年6月17日)",
+     "result": "-",
+     "committee": "なし"
+    },
+    {
+     "no": "27",
+     "title": "大田区土地開発公社の経営状況に関する書類の提出について",
+     "date": "(令和8年6月17日)",
+     "result": "-",
+     "committee": "なし"
+    },
+    {
+     "no": "28",
+     "title": "一般財団法人国際都市おおた協会の経営状況に関する書類の提出について",
+     "date": "(令和8年6月17日)",
+     "result": "-",
+     "committee": "なし"
+    },
+    {
+     "no": "29",
+     "title": "公益財団法人大田区スポーツ協会の経営状況に関する書類の提出について",
+     "date": "(令和8年6月17日)",
+     "result": "-",
+     "committee": "なし"
+    },
+    {
+     "no": "30",
+     "title": "公益財団法人大田区文化振興協会の経営状況に関する書類の提出について",
+     "date": "(令和8年6月17日)",
+     "result": "-",
+     "committee": "なし"
+    },
+    {
+     "no": "31",
+     "title": "公益財団法人大田区産業振興協会の経営状況に関する書類の提出について",
+     "date": "(令和8年6月17日)",
+     "result": "-",
+     "committee": "なし"
+    },
+    {
+     "no": "32",
+     "title": "株式会社大田まちづくり公社の経営状況に関する書類の提出について",
+     "date": "(令和8年6月17日)",
+     "result": "-",
+     "committee": "なし"
+    },
+    {
+     "no": "33",
+     "title": "羽田エアポートライン株式会社の経営状況に関する書類の提出について",
+     "date": "(令和8年6月17日)",
+     "result": "-",
+     "committee": "なし"
+    },
+    {
+     "no": "34",
+     "title": "一般財団法人大田区環境公社の経営状況に関する書類の提出について",
+     "date": "(令和8年6月17日)",
+     "result": "-",
+     "committee": "なし"
+    },
+    {
+     "no": "35",
+     "title": "区の義務に属する損害賠償額決定に係る専決処分の報告について",
+     "date": "(令和8年6月17日)",
+     "result": "-",
+     "committee": "なし"
+    },
+    {
+     "no": "36",
+     "title": "大田区立入新井第二小学校校舎改築その他工事（Ⅰ期）請負契約の専決処分の報告について",
+     "date": "(令和8年6月17日)",
+     "result": "-",
+     "committee": "なし"
+    },
+    {
+     "no": "37",
+     "title": "大田区立入新井第二小学校校舎改築その他電気設備工事（Ⅰ期）請負契約の専決処分の報告について",
+     "date": "(令和8年6月17日)",
+     "result": "-",
+     "committee": "なし"
+    }
+   ]
+  },
+  {
+   "title": "議員提出議案",
+   "kind": "giin",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2teirei/r0802teirei_giingian.html",
+   "pdfs": [
+    {
+     "label": "第1号議案（PDF：126KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2teirei/r0802teirei_giingian.files/r0802giingian.pdf"
+    }
+   ],
+   "rows": [
+    {
+     "no": "1",
+     "title": "大田区高齢者補聴器購入費助成条例",
+     "date": "令和8年6月25日",
+     "result": "否決\n（賛成者少数）",
+     "committee": "健康福祉"
+    }
+   ]
+  },
+  {
+   "title": "請願・陳情",
+   "kind": "seichin",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2teirei/r0802seigan20260219.html",
+   "pdfs": [],
+   "rows": [
+    {
+     "no": "8第\n10号",
+     "title": "国民世論の成熟を待って「改憲発議」を行うよう求める意見書の提出を求める陳情",
+     "referred": "令和8年6月17日",
+     "committee": "総務財政",
+     "date": "令和8年6月25日",
+     "result": "不採択"
+    },
+    {
+     "no": "8第\n12号",
+     "title": "生ゴミ処理機への助成金の支給を求める陳情",
+     "referred": "令和8年6月17日",
+     "committee": "まちづくり\n環境",
+     "date": "令和8年6月25日",
+     "result": "不採択"
+    },
+    {
+     "no": "8第\n13号",
+     "title": "区立中学校における平和教育及び校外学習の政治的中立性と安全確保を求める陳情",
+     "referred": "令和8年6月17日",
+     "committee": "こども文教",
+     "date": "令和8年6月25日",
+     "result": "不採択"
+    },
+    {
+     "no": "8第\n14号",
+     "title": "請願・陳情の採決結果を区長提出議案、議員提出議案と同様に公開することを求める陳情",
+     "referred": "令和8年6月17日",
+     "committee": "議会運営",
+     "date": "令和8年6月25日",
+     "result": "不採択"
+    },
+    {
+     "no": "8第\n15号",
+     "title": "司法修習生採用選考審査基準に国籍条項を設けることを求める意見書提出に関する陳情",
+     "referred": "令和8年6月17日",
+     "committee": "総務財政",
+     "date": "令和8年6月25日",
+     "result": "不採択"
+    },
+    {
+     "no": "8第\n16号",
+     "title": "採決結果を「○×」で示した図にすること、また、議員別の図にすることを求める陳情",
+     "referred": "令和8年6月17日",
+     "committee": "議会運営",
+     "date": "令和8年6月25日",
+     "result": "不採択"
+    },
+    {
+     "no": "8第\n17号",
+     "title": "危険行為、違反行為を行った建設事業者にペナルティー等を科してほしいと願う陳情",
+     "referred": "令和8年6月17日",
+     "committee": "まちづくり\n環境",
+     "date": "令和8年6月25日",
+     "result": "不採択"
+    },
+    {
+     "no": "8第\n18号",
+     "title": "鈴木区長の公職選挙法違反について議会での謝罪を求める陳情",
+     "referred": "令和8年6月17日",
+     "committee": "総務財政",
+     "date": "令和8年6月25日",
+     "result": "不採択"
+    },
+    {
+     "no": "8第\n19号",
+     "title": "政務活動費の明細、領収書などを長期にインターネット公表を求める陳情",
+     "referred": "令和8年6月17日",
+     "committee": "議会運営",
+     "date": "令和8年6月25日",
+     "result": "継続"
+    },
+    {
+     "no": "8第\n20号",
+     "title": "「生活保護制度の夏季加算を求める意見書採択」の陳情",
+     "referred": "令和8年6月17日",
+     "committee": "健康福祉",
+     "date": "令和8年6月25日",
+     "result": "不採択"
+    },
+    {
+     "no": "8第\n21号",
+     "title": "暑さ対策のための「夏季生活支援給付金」（仮称）など大田区独自施策を求める陳情",
+     "referred": "令和8年6月17日",
+     "committee": "総務財政",
+     "date": "令和8年6月25日",
+     "result": "不採択"
+    },
+    {
+     "no": "8第\n22号",
+     "title": "新ルート・Ｂ滑走路南向き離陸の中止・撤回を大田区から国に求めて頂きたいと願う陳情",
+     "referred": "令和8年6月17日",
+     "committee": "羽田空港\n対策特別",
+     "date": "令和8年6月25日",
+     "result": "取下げ"
+    },
+    {
+     "no": "8第\n23号",
+     "title": "大森ふるさと浜辺公園ビーチコート利用時間の延長に関する陳情",
+     "referred": "令和8年6月17日",
+     "committee": "まちづくり\n環境",
+     "date": "令和8年6月25日",
+     "result": "継続"
+    },
+    {
+     "no": "8第\n24号",
+     "title": "区議会において出された質問に誠実に丁寧に回答されることを求める陳情",
+     "referred": "令和8年6月17日",
+     "committee": "交通政策\n調査特別",
+     "date": "令和8年6月25日",
+     "result": "不採択"
+    },
+    {
+     "no": "8第\n25号",
+     "title": "区議会議員の政務活動費不正支出について議会として責任ある対応を求める陳情",
+     "referred": "令和8年6月17日",
+     "committee": "議会運営",
+     "date": "令和8年6月25日",
+     "result": "継続"
+    },
+    {
+     "no": "8第\n26号",
+     "title": "新空港線事業費の再評価を求める請願",
+     "referred": "令和8年6月17日",
+     "committee": "交通政策\n調査特別",
+     "date": "令和8年6月25日",
+     "result": "不採択"
+    }
+   ]
+  },
+  {
+   "title": "その他",
+   "kind": "other",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2teirei/r0802teirei_sonota.html",
+   "pdfs": [
+    {
+     "label": "宮城県東松島市議会親善訪問に伴う議員の派遣について（PDF：85KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2teirei/r0802teirei_sonota.files/r0802sonota01_higashimatsushima.pdf"
+    },
+    {
+     "label": "セーラム市親善訪問に伴う議員の派遣について（PDF：77KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2teirei/r0802teirei_sonota.files/r0802sonota01_salem.pdf"
+    }
+   ],
+   "rows": [
+    {
+     "title": "宮城県東松島市議会親善訪問に伴う議員の派遣について",
+     "date": "令和8年6月17日",
+     "result": "原案可決\n（全会一致）",
+     "committee": "なし"
+    },
+    {
+     "title": "セーラム市親善訪問に伴う議員の派遣について",
+     "date": "令和8年6月17日",
+     "result": "原案可決\n（賛成者多数）",
+     "committee": "なし"
+    }
+   ]
+  },
+  {
+   "title": "意見が異なった議案に対する各会派の態度",
+   "kind": "taido",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2teirei/r0802teirei_taido.html",
+   "pdfs": [],
+   "rows": [
+    {
+     "no": "58",
+     "title": "令和８年度大田区一般会計補正予算（第２次）",
+     "votes": {
+      "自民・無所属": "賛成\n欠席１",
+      "公明": "賛成",
+      "無所属": "賛成",
+      "共産": "賛成\n欠席１",
+      "立憲": "賛成",
+      "維新": "賛成",
+      "フェア民": "反対",
+      "れ新": "賛成",
+      "子ども防災": "賛成",
+      "創志": "賛成",
+      "国民": "賛成"
+     },
+     "result": "原案\n可決"
+    },
+    {
+     "no": "59",
+     "title": "大田区特別区税条例の一部を改正する条例",
+     "votes": {
+      "自民・無所属": "賛成\n欠席１",
+      "公明": "賛成",
+      "無所属": "賛成",
+      "共産": "賛成\n欠席１",
+      "立憲": "賛成",
+      "維新": "賛成",
+      "フェア民": "反対",
+      "れ新": "賛成",
+      "子ども防災": "賛成",
+      "創志": "賛成",
+      "国民": "賛成"
+     },
+     "result": "原案\n可決"
+    },
+    {
+     "no": "61",
+     "title": "大田区立区民センター条例の一部を改正する条例",
+     "votes": {
+      "自民・無所属": "賛成\n欠席１",
+      "公明": "賛成",
+      "無所属": "賛成",
+      "共産": "賛成\n欠席１",
+      "立憲": "賛成",
+      "維新": "賛成",
+      "フェア民": "反対",
+      "れ新": "賛成",
+      "子ども防災": "賛成",
+      "創志": "賛成",
+      "国民": "賛成"
+     },
+     "result": "原案\n可決"
+    },
+    {
+     "no": "64",
+     "title": "大田区立シルバーピア条例に規定する大田区立シルバーピア蒲田の供用停止に関する条例",
+     "votes": {
+      "自民・無所属": "賛成\n欠席１",
+      "公明": "賛成",
+      "無所属": "賛成",
+      "共産": "賛成\n欠席１",
+      "立憲": "賛成",
+      "維新": "賛成",
+      "フェア民": "反対",
+      "れ新": "賛成",
+      "子ども防災": "賛成",
+      "創志": "賛成",
+      "国民": "賛成"
+     },
+     "result": "原案\n可決"
+    },
+    {
+     "no": "66",
+     "title": "大田区立児童館条例の一部を改正する条例",
+     "votes": {
+      "自民・無所属": "賛成\n欠席１",
+      "公明": "賛成",
+      "無所属": "賛成",
+      "共産": "反対\n欠席１",
+      "立憲": "賛成",
+      "維新": "賛成",
+      "フェア民": "反対",
+      "れ新": "賛成",
+      "子ども防災": "賛成",
+      "創志": "賛成",
+      "国民": "賛成"
+     },
+     "result": "原案\n可決"
+    },
+    {
+     "no": "68",
+     "title": "大田区立赤松小学校校舎（棟番号⑪－１ほか）取壊し及び外構整備その他工事請負契約について",
+     "votes": {
+      "自民・無所属": "賛成\n欠席１",
+      "公明": "賛成",
+      "無所属": "賛成",
+      "共産": "賛成\n欠席１",
+      "立憲": "賛成",
+      "維新": "賛成",
+      "フェア民": "反対",
+      "れ新": "賛成",
+      "子ども防災": "賛成",
+      "創志": "賛成",
+      "国民": "賛成"
+     },
+     "result": "原案\n可決"
+    },
+    {
+     "no": "69",
+     "title": "大田区立馬込第三小学校及び仮称大田区室生犀星資料館改築その他電気設備工事請負契約について",
+     "votes": {
+      "自民・無所属": "賛成\n欠席１",
+      "公明": "賛成",
+      "無所属": "賛成",
+      "共産": "賛成\n欠席１",
+      "立憲": "賛成",
+      "維新": "賛成",
+      "フェア民": "反対",
+      "れ新": "賛成",
+      "子ども防災": "賛成",
+      "創志": "賛成",
+      "国民": "賛成"
+     },
+     "result": "原案\n可決"
+    },
+    {
+     "no": "議1",
+     "title": "大田区高齢者補聴器購入費助成条例",
+     "votes": {
+      "自民・無所属": "反対\n欠席１",
+      "公明": "反対",
+      "無所属": "反対",
+      "共産": "賛成\n欠席１",
+      "立憲": "反対",
+      "維新": "反対",
+      "フェア民": "賛成",
+      "れ新": "賛成",
+      "子ども防災": "反対",
+      "創志": "反対",
+      "国民": "反対"
+     },
+     "result": "否決"
+    },
+    {
+     "no": "",
+     "title": "セーラム市親善訪問に伴う議員の派遣について",
+     "votes": {
+      "自民・無所属": "賛成",
+      "公明": "賛成",
+      "無所属": "賛成\n欠席１",
+      "共産": "反対",
+      "立憲": "賛成",
+      "維新": "賛成",
+      "フェア民": "棄権",
+      "れ新": "賛成",
+      "子ども防災": "賛成",
+      "創志": "賛成",
+      "国民": "賛成"
+     },
+     "result": "原案\n可決"
+    }
+   ],
+   "factions": [
+    "自民・無所属",
+    "公明",
+    "無所属",
+    "共産",
+    "立憲",
+    "維新",
+    "フェア民",
+    "れ新",
+    "子ども防災",
+    "創志",
+    "国民"
+   ]
+  }
+ ]
+}

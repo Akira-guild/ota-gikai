@@ -1,0 +1,276 @@
+{
+ "id": "r05-1r",
+ "name": "令和5年第1回臨時会",
+ "era": 5,
+ "n": 1,
+ "type": "rinji",
+ "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_5/1rinji/index.html",
+ "pages": [
+  {
+   "title": "区長提出議案",
+   "kind": "kucho",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_5/1rinji/R5_1rinji_kuchoteisyutsugian.html",
+   "pdfs": [],
+   "rows": [
+    {
+     "no": "28",
+     "title": "令和5年度大田区一般会計補正予算（第1次）",
+     "date": "令和5年5月30日",
+     "result": "原案可決\n（賛成者多数）",
+     "committee": "総務財政"
+    },
+    {
+     "no": "29",
+     "title": "仮称大田区子ども家庭総合支援センター新築その他工事請負契約について",
+     "date": "令和5年5月30日",
+     "result": "原案可決\n（全会一致）",
+     "committee": "総務財政"
+    },
+    {
+     "no": "30",
+     "title": "大田区立大田生活実習所改築その他工事（Ⅰ期）請負契約について",
+     "date": "令和5年5月30日",
+     "result": "原案可決\n（全会一致）",
+     "committee": "総務財政"
+    },
+    {
+     "no": "31",
+     "title": "大田区立石川町文化センター大規模改修工事請負契約について",
+     "date": "令和5年5月30日",
+     "result": "原案可決\n（全会一致）",
+     "committee": "総務財政"
+    },
+    {
+     "no": "32",
+     "title": "大田区立大田生活実習所改築その他電気設備工事（Ⅰ期）請負契約について",
+     "date": "令和5年5月30日",
+     "result": "原案可決\n（全会一致）",
+     "committee": "総務財政"
+    },
+    {
+     "no": "33",
+     "title": "大田区立大田生活実習所改築その他機械設備工事（Ⅰ期）請負契約について",
+     "date": "令和5年5月30日",
+     "result": "原案可決\n（全会一致）",
+     "committee": "総務財政"
+    },
+    {
+     "no": "34",
+     "title": "大田区基本構想審議会条例",
+     "date": "令和5年5月30日",
+     "result": "原案可決\n（全会一致）",
+     "committee": "総務財政"
+    }
+   ]
+  },
+  {
+   "title": "報告",
+   "kind": "hokoku",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_5/1rinji/05_1rinji_houkoku.html",
+   "pdfs": [],
+   "rows": [
+    {
+     "no": "15",
+     "title": "大田区立入新井第一小学校及び仮称大田区大森北四丁目複合施設改築その他工事（Ⅰ期）請負契約の専決処分の報告について",
+     "date": "（令和5年5月23日）",
+     "result": "-",
+     "committee": "なし"
+    },
+    {
+     "no": "16",
+     "title": "大田区立赤松小学校及び仮称大田区北千束二丁目複合施設改築その他工事（Ⅰ期）請負契約の専決処分の報告について",
+     "date": "（令和5年5月23日）",
+     "result": "-",
+     "committee": "なし"
+    },
+    {
+     "no": "17",
+     "title": "大田区立東調布第三小学校及び仮称大田区南久が原二丁目複合施設改築その他工事（Ⅰ期）請負契約の専決処分の報告について",
+     "date": "（令和5年5月23日）",
+     "result": "-",
+     "committee": "なし"
+    },
+    {
+     "no": "18",
+     "title": "大田区立おなづか小学校プール改修及び玄関棟（棟番号⑫－１、２、３）耐震補強その他工事請負契約の専決処分の報告について",
+     "date": "（令和5年5月23日）",
+     "result": "-",
+     "committee": "なし"
+    }
+   ]
+  },
+  {
+   "title": "議員提出議案",
+   "kind": "giin",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_5/1rinji/R5_1jinji_giin.html",
+   "pdfs": [],
+   "rows": [
+    {
+     "no": "6",
+     "title": "大田区議会委員会条例の一部を改正する条例",
+     "date": "令和5年5月23日",
+     "result": "原案可決\n（賛成者多数）",
+     "committee": "なし"
+    }
+   ]
+  },
+  {
+   "title": "意見が異なった議案に対する各会派の態度",
+   "kind": "taido",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_5/1rinji/taido_0511.html",
+   "pdfs": [],
+   "rows": [
+    {
+     "no": "議6",
+     "title": "大田区議会委員会条例の一部を改正する条例",
+     "votes": {
+      "自民・無所属": "賛成",
+      "公明": "賛成",
+      "共産": "賛成",
+      "維新": "賛成",
+      "つばさ": "賛成",
+      "フォ｜ラム": "賛成",
+      "立憲": "賛成",
+      "フェア民": "反対",
+      "れ新": "賛成"
+     },
+     "result": "原案\n可決"
+    },
+    {
+     "no": "28",
+     "title": "令和5年度大田区一般会計補正予算（第1次）",
+     "votes": {
+      "自民・無所属": "賛成",
+      "公明": "賛成",
+      "共産": "賛成",
+      "維新": "賛成",
+      "つばさ": "賛成",
+      "フォ｜ラム": "賛成",
+      "立憲": "賛成",
+      "フェア民": "反対",
+      "れ新": "賛成"
+     },
+     "result": "原案\n可決"
+    }
+   ],
+   "factions": [
+    "自民・無所属",
+    "公明",
+    "共産",
+    "維新",
+    "つばさ",
+    "フォ｜ラム",
+    "立憲",
+    "フェア民",
+    "れ新"
+   ]
+  },
+  {
+   "title": "選挙",
+   "kind": "other",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_5/1rinji/r5_1rin_senkyo.html",
+   "pdfs": [],
+   "rows": [
+    {
+     "no": "1",
+     "title": "議長選挙\n（押見 隆太）",
+     "選挙日": "令和5年5月23日",
+     "result": "当選",
+     "committee": "なし"
+    },
+    {
+     "no": "2",
+     "title": "副議長選挙\n（秋成 おさむ）",
+     "選挙日": "令和5年5月23日",
+     "result": "当選",
+     "committee": "なし"
+    },
+    {
+     "no": "3",
+     "title": "選挙管理委員選挙\n（田中 一吉）",
+     "選挙日": "令和5年5月23日",
+     "result": "当選",
+     "committee": "なし"
+    },
+    {
+     "no": "4",
+     "title": "選挙管理委員選挙\n（飯田 茂）",
+     "選挙日": "令和5年5月23日",
+     "result": "当選",
+     "committee": "なし"
+    },
+    {
+     "no": "5",
+     "title": "選挙管理委員選挙\n（岸田 哲治）",
+     "選挙日": "令和5年5月23日",
+     "result": "当選",
+     "committee": "なし"
+    },
+    {
+     "no": "6",
+     "title": "選挙管理委員選挙\n（山崎 勝広）",
+     "選挙日": "令和5年5月23日",
+     "result": "当選",
+     "committee": "なし"
+    },
+    {
+     "no": "7",
+     "title": "選挙管理委員補充員選挙\n（河津 章夫）",
+     "選挙日": "令和5年5月23日",
+     "result": "当選",
+     "committee": "なし"
+    },
+    {
+     "no": "8",
+     "title": "選挙管理委員補充員選挙\n（冨田 俊一）",
+     "選挙日": "令和5年5月23日",
+     "result": "当選",
+     "committee": "なし"
+    },
+    {
+     "no": "9",
+     "title": "選挙管理委員補充員選挙\n（馬場 良彰）",
+     "選挙日": "令和5年5月23日",
+     "result": "当選",
+     "committee": "なし"
+    },
+    {
+     "no": "10",
+     "title": "選挙管理委員補充員選挙\n（植田 智一）",
+     "選挙日": "令和5年5月23日",
+     "result": "当選",
+     "committee": "なし"
+    },
+    {
+     "no": "11",
+     "title": "東京都後期高齢者医療広域連合議会議員の選挙における候補者選挙\n（しおの目 まさき）",
+     "選挙日": "令和5年5月30日",
+     "result": "当選",
+     "committee": "なし"
+    }
+   ]
+  },
+  {
+   "title": "同意",
+   "kind": "doi",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_5/1rinji/r5-1rin-doi.html",
+   "pdfs": [],
+   "rows": [
+    {
+     "no": "1",
+     "title": "議員選出監査委員\n（大森 昭彦）",
+     "date": "令和5年5月23日",
+     "result": "同意",
+     "committee": "なし"
+    },
+    {
+     "no": "2",
+     "title": "議員選出監査委員\n（末安 広明）",
+     "date": "令和5年5月23日",
+     "result": "同意",
+     "committee": "なし"
+    }
+   ]
+  }
+ ]
+}

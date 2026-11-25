@@ -1,0 +1,590 @@
+{
+  "kucho-1": {
+    "headline": "令和7年度の一般会計のお金の計画（予算）を決める",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-2": {
+    "headline": "令和7年度の国民健康保険の特別会計のお金の計画（予算）を決める",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-3": {
+    "headline": "令和7年度の後期高齢者医療の特別会計のお金の計画（予算）を決める",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-4": {
+    "headline": "令和7年度の介護保険の特別会計のお金の計画（予算）を決める",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-5": {
+    "headline": "令和6年度の一般会計（5回目）のお金の計画（予算）を途中で変える（補正）",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-6": {
+    "headline": "令和6年度の国民健康保険の特別会計（2回目）のお金の計画（予算）を途中で変える（補正）",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-7": {
+    "headline": "令和6年度の後期高齢者医療の特別会計（2回目）のお金の計画（予算）を途中で変える（補正）",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-8": {
+    "headline": "令和6年度の介護保険の特別会計（2回目）のお金の計画（予算）を途中で変える（補正）",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-9": {
+    "headline": "区の組織のきまり（条例）を変える",
+    "points": [],
+    "category": "議会・行政のしくみ",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-10": {
+    "headline": "区の付属機関（話し合いの場など）を置くためのきまり（条例）をつくる",
+    "points": [],
+    "category": "議会・行政のしくみ",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-11": {
+    "headline": "刑法などの法律が変わることに合わせて、関係する条例を整える",
+    "points": [],
+    "category": "議会・行政のしくみ",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-12": {
+    "headline": "区長などの給料のきまり（条例）を変える",
+    "points": [],
+    "category": "人事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-13": {
+    "headline": "行政委員会の委員への報酬と費用の支払いのきまり（条例）を変える",
+    "points": [],
+    "category": "人事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-14": {
+    "headline": "監査委員の給与のきまり（条例）を変える",
+    "points": [],
+    "category": "人事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-15": {
+    "headline": "職員の勤務時間・休日・休暇などのきまり（条例）を変える",
+    "points": [],
+    "category": "人事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-16": {
+    "headline": "職員の特殊勤務手当のきまり（条例）を変える",
+    "points": [],
+    "category": "人事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-17": {
+    "headline": "職員の退職手当のきまり（条例）を変える",
+    "points": [],
+    "category": "人事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-18": {
+    "headline": "区議会が決める契約・財産・公の施設についてのきまり（条例）を変える",
+    "points": [],
+    "category": "議会・行政のしくみ",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-19": {
+    "headline": "区の積立基金（ためておくお金）に関する条例を変える",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-20": {
+    "headline": "手数料（証明書などの料金）のきまり（条例）を変える",
+    "points": [],
+    "category": "議会・行政のしくみ",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-21": {
+    "headline": "教育委員会の教育長の給与のきまり（条例）を変える",
+    "points": [],
+    "category": "人事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-22": {
+    "headline": "区議会議員の報酬・費用の支払い・期末手当のきまり（条例）を変える",
+    "points": [],
+    "category": "人事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-23": {
+    "headline": "休養村とうぶのきまり（条例）を変える",
+    "points": [],
+    "category": "産業・観光",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-24": {
+    "headline": "青少年交流センターのきまり（条例）を変える",
+    "points": [],
+    "category": "子育て・教育",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-25": {
+    "headline": "区立消費者生活センターのきまり（条例）を変える",
+    "points": [],
+    "category": "産業・観光",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-26": {
+    "headline": "区民活動支援施設のきまり（条例）を変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-27": {
+    "headline": "区民活動施設のきまり（条例）を変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-28": {
+    "headline": "特別出張所の付属施設のきまり（条例）を変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-29": {
+    "headline": "区立区民センターのきまり（条例）を変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-30": {
+    "headline": "区立文化センターのきまり（条例）を変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-31": {
+    "headline": "大森西二丁目の複合施設についてのきまり（条例）をつくる",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [
+      "大森西"
+    ],
+    "basis": "title"
+  },
+  "kucho-32": {
+    "headline": "区立大森東地域センターのきまり（条例）を変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [
+      "大森東"
+    ],
+    "basis": "title"
+  },
+  "kucho-33": {
+    "headline": "区立ライフコミュニティ西馬込のきまり（条例）を変える",
+    "points": [],
+    "category": "福祉・医療",
+    "areas": [
+      "西馬込"
+    ],
+    "basis": "title"
+  },
+  "kucho-34": {
+    "headline": "区立池上会館のきまり（条例）を変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [
+      "池上"
+    ],
+    "basis": "title"
+  },
+  "kucho-35": {
+    "headline": "区立山王会館のきまり（条例）を変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [
+      "山王"
+    ],
+    "basis": "title"
+  },
+  "kucho-36": {
+    "headline": "田園調布せせらぎ館のきまり（条例）を変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [
+      "田園調布"
+    ],
+    "basis": "title"
+  },
+  "kucho-37": {
+    "headline": "区立大森スポーツセンターのきまり（条例）を変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [
+      "大森"
+    ],
+    "basis": "title"
+  },
+  "kucho-38": {
+    "headline": "大田スタジアムのきまり（条例）を変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-39": {
+    "headline": "区立水泳場のきまり（条例）を変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-40": {
+    "headline": "区立多摩川田園調布緑地のきまり（条例）を変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [
+      "田園調布"
+    ],
+    "basis": "title"
+  },
+  "kucho-41": {
+    "headline": "区民プラザのきまり（条例）を変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-42": {
+    "headline": "区民ホールのきまり（条例）を変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-43": {
+    "headline": "大田文化の森のきまり（条例）を変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-44": {
+    "headline": "産業プラザの一部を、しばらく使えなくするためのきまり（条例）をつくる",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-45": {
+    "headline": "区の老人いこいの家のきまり（条例）を変える",
+    "points": [],
+    "category": "福祉・医療",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-46": {
+    "headline": "地域包括支援センターの包括的支援事業（高齢者を支える仕事）を行うときの基準のきまり（条例）を変える",
+    "points": [],
+    "category": "福祉・医療",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-47": {
+    "headline": "区立の障害のある人のための施設のきまり（条例）を変える",
+    "points": [],
+    "category": "福祉・医療",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-48": {
+    "headline": "公衆浴場（銭湯）の場所の決め方や衛生の基準のきまり（条例）を変える",
+    "points": [],
+    "category": "福祉・医療",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-49": {
+    "headline": "地域力を生かした大田区まちづくりのきまり（条例）を変える",
+    "points": [],
+    "category": "まちづくり・道路",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-50": {
+    "headline": "羽田空港跡地第1ゾーンの公園の整備・運営をする事業者を選ぶ委員会のきまり（条例）をなくす",
+    "points": [],
+    "category": "まちづくり・道路",
+    "areas": [
+      "羽田"
+    ],
+    "basis": "title"
+  },
+  "kucho-51": {
+    "headline": "自転車などの使い方と自転車の駐車場づくりのきまり（条例）を変える",
+    "points": [],
+    "category": "まちづくり・道路",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-52": {
+    "headline": "道路を使うときの料金（道路占用料）のきまり（条例）を変える",
+    "points": [],
+    "category": "まちづくり・道路",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-53": {
+    "headline": "公共物の管理のきまり（条例）を変える",
+    "points": [],
+    "category": "まちづくり・道路",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-54": {
+    "headline": "区立公園のきまり（条例）を変える",
+    "points": [],
+    "category": "まちづくり・道路",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-55": {
+    "headline": "下水道関連施設の公園などの設置と管理のきまり（条例）を変える",
+    "points": [],
+    "category": "まちづくり・道路",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-56": {
+    "headline": "区立多摩川緑地の付属施設のきまり（条例）を変える",
+    "points": [],
+    "category": "まちづくり・道路",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-57": {
+    "headline": "清潔で美しい大田区をつくるのきまり（条例）を変える",
+    "points": [],
+    "category": "環境・ごみ",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-58": {
+    "headline": "区立児童館のきまり（条例）を変える",
+    "points": [],
+    "category": "子育て・教育",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-59": {
+    "headline": "区立多摩川集会室のきまり（条例）を変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-60": {
+    "headline": "子ども家庭支援センターのきまり（条例）を変える",
+    "points": [],
+    "category": "子育て・教育",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-61": {
+    "headline": "区立保育園のきまり（条例）を変える",
+    "points": [],
+    "category": "子育て・教育",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-62": {
+    "headline": "家庭的保育事業など（少人数の保育）の設備と運営の基準のきまり（条例）を変える",
+    "points": [],
+    "category": "子育て・教育",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-63": {
+    "headline": "区立学校の校外施設のきまり（条例）を変える",
+    "points": [],
+    "category": "子育て・教育",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-64": {
+    "headline": "区の土地と建物を手放す（処分する）",
+    "points": [],
+    "category": "議会・行政のしくみ",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-65": {
+    "headline": "大森第一中学校の校舎の外壁の改修（Ⅱ期）とサッシュ（窓枠）の改修などの工事を会社に頼む契約を結ぶ",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [
+      "大森"
+    ],
+    "basis": "title"
+  },
+  "kucho-66": {
+    "headline": "矢口西小学校の校舎の建て替えなどの機械設備の工事を会社に頼む契約を結ぶ",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [
+      "矢口"
+    ],
+    "basis": "title"
+  },
+  "kucho-67": {
+    "headline": "産業プラザの大きな改修の機械設備の工事を会社に頼む契約を結ぶ",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-68": {
+    "headline": "東調布中学校の校舎（棟番号①－１、２ほか）の取り壊し工事を会社に頼む契約を結ぶ",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [
+      "東調布"
+    ],
+    "basis": "title"
+  },
+  "kucho-69": {
+    "headline": "中学校の先生用の指導書を買う",
+    "points": [],
+    "category": "子育て・教育",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-70": {
+    "headline": "呑川合流改善貯留施設の立坑（たてあな）を設ける工事を会社に頼む契約の内容を変える",
+    "points": [],
+    "category": "まちづくり・道路",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-71": {
+    "headline": "馬込第三小学校の校舎（棟番号①－１ほか）の取り壊しなどの工事を会社に頼む契約の内容を変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [
+      "馬込"
+    ],
+    "basis": "title"
+  },
+  "kucho-72": {
+    "headline": "都市公園を置く区域を決める",
+    "points": [],
+    "category": "まちづくり・道路",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-73": {
+    "headline": "区立元羽田児童公園をなくす（廃止する）",
+    "points": [],
+    "category": "まちづくり・道路",
+    "areas": [
+      "羽田"
+    ],
+    "basis": "title"
+  },
+  "kucho-74": {
+    "headline": "区立南一児童公園をなくす（廃止する）",
+    "points": [],
+    "category": "まちづくり・道路",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-75": {
+    "headline": "職員の給与のきまり（条例）を変える",
+    "points": [],
+    "category": "人事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-76": {
+    "headline": "国民健康保険のきまり（条例）を変える",
+    "points": [],
+    "category": "福祉・医療",
+    "areas": [],
+    "basis": "title"
+  },
+  "giin-1": {
+    "headline": "世帯向けの家賃助成についてのきまり（条例）をつくる（議員が出した案）",
+    "points": [],
+    "category": "福祉・医療",
+    "areas": [],
+    "basis": "title"
+  },
+  "iinkai-1": {
+    "headline": "区議会議員の報酬などの特例についてのきまり（条例）をつくる（委員会が出した案）",
+    "points": [],
+    "category": "人事",
+    "areas": [],
+    "basis": "title"
+  },
+  "iinkai-2": {
+    "headline": "区議会の委員会についてのきまり（条例）を変える（委員会が出した案）",
+    "points": [],
+    "category": "議会・行政のしくみ",
+    "areas": [],
+    "basis": "title"
+  },
+  "iinkai-3": {
+    "headline": "区議会の個人情報保護についてのきまり（条例）を変える（委員会が出した案）",
+    "points": [],
+    "category": "議会・行政のしくみ",
+    "areas": [],
+    "basis": "title"
+  }
+}

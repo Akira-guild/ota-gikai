@@ -1,0 +1,235 @@
+{
+  "kucho-1": {
+    "headline": "令和5年度の区の予算（一般会計）を決める",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-2": {
+    "headline": "令和5年度の国民健康保険の予算を決める",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-3": {
+    "headline": "令和5年度の後期高齢者医療の予算を決める",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-4": {
+    "headline": "令和5年度の介護保険の予算を決める",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-5": {
+    "headline": "令和4年度の区の予算（一般会計）を変える（第6次）",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-6": {
+    "headline": "令和4年度の国民健康保険の予算を変える（第2次）",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-7": {
+    "headline": "令和4年度の後期高齢者医療の予算を変える（第2次）",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-8": {
+    "headline": "令和4年度の介護保険の予算を変える（第2次）",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-9": {
+    "headline": "個人情報保護法の改正にあわせて、関係するきまりを整える",
+    "points": [],
+    "category": "議会・行政のしくみ",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-10": {
+    "headline": "情報公開のきまりを変える",
+    "points": [],
+    "category": "議会・行政のしくみ",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-11": {
+    "headline": "情報公開・個人情報保護審議会のきまりを変える",
+    "points": [],
+    "category": "議会・行政のしくみ",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-12": {
+    "headline": "情報公開・個人情報保護審査会のきまりを変える",
+    "points": [],
+    "category": "議会・行政のしくみ",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-13": {
+    "headline": "職員の退職手当に関するきまりを変える",
+    "points": [],
+    "category": "人事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-14": {
+    "headline": "印鑑（登録など）のきまりを変える",
+    "points": [],
+    "category": "議会・行政のしくみ",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-15": {
+    "headline": "区の手数料のきまりを変える",
+    "points": [],
+    "category": "議会・行政のしくみ",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-16": {
+    "headline": "区民ホールのきまりを変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-17": {
+    "headline": "熊谷恒子記念館の施設の利用停止に関するきまりを変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-18": {
+    "headline": "龍子記念館のきまりを変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-19": {
+    "headline": "郷土博物館のきまりを変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-20": {
+    "headline": "大森海苔のふるさと館のきまりを変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [
+      "大森"
+    ],
+    "basis": "title"
+  },
+  "kucho-21": {
+    "headline": "勝海舟記念館のきまりを変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-22": {
+    "headline": "保育が必要かどうかの認定などに関するきまりを変える",
+    "points": [],
+    "category": "子育て・教育",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-23": {
+    "headline": "保育施設などの運営の基準のきまりを変える",
+    "points": [],
+    "category": "子育て・教育",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-24": {
+    "headline": "家庭的保育事業などの設備・運営の基準のきまりを変える",
+    "points": [],
+    "category": "子育て・教育",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-25": {
+    "headline": "高畑小学校校舎増築その他の工事を会社に頼む契約",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-26": {
+    "headline": "区の道路の路線を認める",
+    "points": [],
+    "category": "まちづくり・道路",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-27": {
+    "headline": "国民健康保険のきまりを変える",
+    "points": [],
+    "category": "福祉・医療",
+    "areas": [],
+    "basis": "title"
+  },
+  "giin-1": {
+    "headline": "区議会議員の報酬・費用・期末手当のきまりを変える",
+    "points": [],
+    "category": "人事",
+    "areas": [],
+    "basis": "title"
+  },
+  "giin-2": {
+    "headline": "まちなかの商店のリニューアルへの助成のきまりを新しく作る",
+    "points": [],
+    "category": "産業・観光",
+    "areas": [],
+    "basis": "title"
+  },
+  "giin-3": {
+    "headline": "高齢者の補聴器の購入費の助成のきまりを新しく作る",
+    "points": [],
+    "category": "福祉・医療",
+    "areas": [],
+    "basis": "title"
+  },
+  "giin-4": {
+    "headline": "地域の力を生かしたまちづくりのきまりを変える",
+    "points": [],
+    "category": "まちづくり・道路",
+    "areas": [],
+    "basis": "title"
+  },
+  "giin-5": {
+    "headline": "保育が必要かどうかの認定などに関するきまりを変える",
+    "points": [],
+    "category": "子育て・教育",
+    "areas": [],
+    "basis": "title"
+  },
+  "iinkai-1": {
+    "headline": "区議会の個人情報保護のきまりを新しく作る",
+    "points": [],
+    "category": "議会・行政のしくみ",
+    "areas": [],
+    "basis": "title"
+  }
+}

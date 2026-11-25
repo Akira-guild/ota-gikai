@@ -1,0 +1,105 @@
+{
+ "id": "r07-2r",
+ "name": "令和7年第2回臨時会",
+ "era": 7,
+ "n": 2,
+ "type": "rinji",
+ "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_7/2rinji/index.html",
+ "pages": [
+  {
+   "title": "区長提出議案",
+   "kind": "kucho",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_7/2rinji/r0702rinji_kuchogian.html",
+   "pdfs": [
+    {
+     "label": "第160号議案（PDF：137KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_7/2rinji/r0702rinji_kuchogian.files/r0702rinjikuchogian160.pdf"
+    },
+    {
+     "label": "第161号議案（PDF：73KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_7/2rinji/r0702rinji_kuchogian.files/r0702rinjikuchogian161.pdf"
+    }
+   ],
+   "rows": [
+    {
+     "no": "160",
+     "title": "令和７年度大田区一般会計補正予算（第５次）",
+     "date": "令和7年12月24日",
+     "result": "原案可決\n（賛成者多数）",
+     "committee": "総務財政"
+    },
+    {
+     "no": "161",
+     "title": "大森東避難橋長寿命化修繕工事請負契約について",
+     "date": "令和7年12月24日",
+     "result": "原案可決\n（全会一致）",
+     "committee": "総務財政"
+    }
+   ]
+  },
+  {
+   "title": "報告",
+   "kind": "hokoku",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_7/2rinji/r0702rinji_hokoku.html",
+   "pdfs": [
+    {
+     "label": "報告第60号から第61号（PDF：123KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_7/2rinji/r0702rinji_hokoku.files/r0702rinjihokoku60_61.pdf"
+    }
+   ],
+   "rows": [
+    {
+     "no": "60",
+     "title": "訴訟上の和解に係る専決処分の報告について",
+     "date": "（令和7年12月24日）",
+     "result": "-",
+     "committee": "なし"
+    },
+    {
+     "no": "61",
+     "title": "区の義務に属する損害賠償額決定に係る専決処分の報告について",
+     "date": "（令和7年12月24日）",
+     "result": "-",
+     "committee": "なし"
+    }
+   ]
+  },
+  {
+   "title": "意見が異なった議案に対する各会派の態度",
+   "kind": "taido",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_7/2rinji/r0702rinji_taido.html",
+   "pdfs": [],
+   "rows": [
+    {
+     "no": "160",
+     "title": "令和７年度大田区一般会計補正予算（第５次）",
+     "votes": {
+      "自民・無所属": "賛成\n欠席1",
+      "公明": "賛成",
+      "つばさ": "賛成",
+      "共産": "賛成",
+      "立憲": "賛成",
+      "維新": "賛成",
+      "都ファ・国民": "賛成",
+      "フェア民": "反対",
+      "れ新": "賛成",
+      "子ども防災": "賛成"
+     },
+     "result": "原案\n可決"
+    }
+   ],
+   "factions": [
+    "自民・無所属",
+    "公明",
+    "つばさ",
+    "共産",
+    "立憲",
+    "維新",
+    "都ファ・国民",
+    "フェア民",
+    "れ新",
+    "子ども防災"
+   ]
+  }
+ ]
+}

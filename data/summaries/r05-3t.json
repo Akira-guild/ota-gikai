@@ -1,0 +1,227 @@
+{
+  "kucho-54": {
+    "headline": "令和4年度の区のお金をどう使ったか（一般会計の決算）を認める",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-55": {
+    "headline": "令和4年度の国民健康保険のお金をどう使ったか（決算）を認める",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-56": {
+    "headline": "令和4年度の後期高齢者医療のお金をどう使ったか（決算）を認める",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-57": {
+    "headline": "令和4年度の介護保険のお金をどう使ったか（決算）を認める",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-58": {
+    "headline": "令和5年度の区の予算（一般会計）を変える（第3次）",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-59": {
+    "headline": "令和5年度の国民健康保険の予算を変える（第1次）",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-60": {
+    "headline": "令和5年度の後期高齢者医療の予算を変える（第1次）",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-61": {
+    "headline": "令和5年度の介護保険の予算を変える（第1次）",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-62": {
+    "headline": "職員の勤務時間や休みに関するきまりを変える",
+    "points": [],
+    "category": "人事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-63": {
+    "headline": "職員の育児休業などに関するきまりを変える",
+    "points": [],
+    "category": "人事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-64": {
+    "headline": "職員の給料に関するきまりを変える",
+    "points": [],
+    "category": "人事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-65": {
+    "headline": "職員の退職手当に関するきまりを変える",
+    "points": [],
+    "category": "人事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-66": {
+    "headline": "職員の旅費に関するきまりを変える",
+    "points": [],
+    "category": "人事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-67": {
+    "headline": "区の手数料のきまりを変える",
+    "points": [],
+    "category": "議会・行政のしくみ",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-68": {
+    "headline": "選挙長などの報酬や費用の支払いに関するきまりを変える",
+    "points": [],
+    "category": "議会・行政のしくみ",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-69": {
+    "headline": "区民プラザの施設の利用停止に関するきまりを変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-70": {
+    "headline": "区立障害者福祉施設のきまりを変える",
+    "points": [],
+    "category": "福祉・医療",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-71": {
+    "headline": "プールに関するきまりを変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-72": {
+    "headline": "興行場（映画館など）に関するきまりを変える",
+    "points": [],
+    "category": "まちづくり・道路",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-73": {
+    "headline": "旅館業法の施行に関するきまりを変える",
+    "points": [],
+    "category": "産業・観光",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-74": {
+    "headline": "区の建物を処分する",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-75": {
+    "headline": "呑川合流改善貯留施設貯留管設置の工事を会社に頼む契約",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-76": {
+    "headline": "馬込小学校校舎増築及び給食室改修その他の工事を会社に頼む契約",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [
+      "馬込"
+    ],
+    "basis": "title"
+  },
+  "kucho-77": {
+    "headline": "仮称大森西二丁目複合施設新築その他電気設備の工事（Ⅰ期）を会社に頼む契約",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [
+      "大森"
+    ],
+    "basis": "title"
+  },
+  "kucho-78": {
+    "headline": "仮称子ども家庭総合支援センター新築その他電気設備の工事を会社に頼む契約",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-79": {
+    "headline": "仮称子ども家庭総合支援センター新築その他機械設備の工事を会社に頼む契約",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-80": {
+    "headline": "仮称大森西二丁目複合施設新築その他機械設備の工事（Ⅰ期）を会社に頼む契約",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [
+      "大森"
+    ],
+    "basis": "title"
+  },
+  "kucho-81": {
+    "headline": "災害に備える毛布を買う",
+    "points": [],
+    "category": "防災・安全",
+    "areas": [],
+    "basis": "title"
+  },
+  "kucho-82": {
+    "headline": "赤松小学校及び仮称北千束二丁目複合施設改築その他の工事（Ⅰ期）を会社に頼む契約を変える",
+    "points": [],
+    "category": "施設・工事",
+    "areas": [
+      "千束"
+    ],
+    "basis": "title"
+  },
+  "giin-9": {
+    "headline": "世帯向けの家賃の助成のきまりを新しく作る",
+    "points": [],
+    "category": "福祉・医療",
+    "areas": [],
+    "basis": "title"
+  },
+  "iinkai-2": {
+    "headline": "固定資産税・都市計画税の減免などを続けるよう求める意見書",
+    "points": [],
+    "category": "予算・決算",
+    "areas": [],
+    "basis": "title"
+  }
+}

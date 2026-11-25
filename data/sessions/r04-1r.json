@@ -1,0 +1,162 @@
+{
+ "id": "r04-1r",
+ "name": "令和4年第1回臨時会",
+ "era": 4,
+ "n": 1,
+ "type": "rinji",
+ "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_4/1rinji/index.html",
+ "pages": [
+  {
+   "title": "区長提出議案",
+   "kind": "kucho",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_4/1rinji/kuchogian1rinzi.html",
+   "pdfs": [],
+   "rows": [
+    {
+     "no": "32",
+     "title": "令和 4年度大田区一般会計補正予算（第1次）",
+     "date": "令和4年5月27日",
+     "result": "原案可決\n（賛成者多数）",
+     "committee": "総務財政"
+    },
+    {
+     "no": "33",
+     "title": "大田区立おなづか小学校プール改修及び玄関棟（棟番号⑫－1、2、3）耐震補強その他工事請負契約について",
+     "date": "令和4年5月27日",
+     "result": "原案可決\n（全会一致）",
+     "committee": "総務財政"
+    }
+   ]
+  },
+  {
+   "title": "報告",
+   "kind": "hokoku",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_4/1rinji/houkoku1rinzi.html",
+   "pdfs": [],
+   "rows": [
+    {
+     "no": "7",
+     "title": "補正予算に関する専決処分の承認について",
+     "date": "令和4年5月27日",
+     "result": "承認",
+     "committee": "総務財政"
+    }
+   ]
+  },
+  {
+   "title": "委員会提出議案",
+   "kind": "iinkai",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_4/1rinji/iinkaigian1rinji.html",
+   "pdfs": [],
+   "rows": [
+    {
+     "no": "2",
+     "title": "大田区議会委員会条例の一部を改正する条例",
+     "date": "令和4年5月26日",
+     "result": "原案可決\n（賛成者多数）",
+     "committee": "なし"
+    }
+   ]
+  },
+  {
+   "title": "意見が異なった議案に対する各会派の態度",
+   "kind": "taido",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_4/1rinji/1tinji_taido.html",
+   "pdfs": [],
+   "rows": [
+    {
+     "no": "32",
+     "title": "令和 4年度大田区一般会計補正予算（第1次）",
+     "votes": {
+      "自民": "賛成",
+      "公明": "賛成",
+      "共産": "賛成",
+      "令和": "賛成",
+      "立憲": "賛成",
+      "フェア民": "反対",
+      "無所属": "賛成",
+      "フォ｜ラム": "賛成"
+     },
+     "result": "原案\n可決"
+    },
+    {
+     "no": "報\n7",
+     "title": "補正予算に関する専決処分の承認について",
+     "votes": {
+      "自民": "賛成",
+      "公明": "賛成",
+      "共産": "賛成",
+      "令和": "賛成",
+      "立憲": "賛成",
+      "フェア民": "反対",
+      "無所属": "賛成",
+      "フォ｜ラム": "賛成"
+     },
+     "result": "承認"
+    },
+    {
+     "no": "委\n2",
+     "title": "大田区議会委員会条例の一部を改正する条例",
+     "votes": {
+      "自民": "賛成",
+      "公明": "賛成",
+      "共産": "反対",
+      "令和": "賛成",
+      "立憲": "反対",
+      "フェア民": "反対",
+      "無所属": "賛成",
+      "フォ｜ラム": "賛成"
+     },
+     "result": "原案\n可決"
+    }
+   ],
+   "factions": [
+    "自民",
+    "公明",
+    "共産",
+    "令和",
+    "立憲",
+    "フェア民",
+    "無所属",
+    "フォ｜ラム"
+   ]
+  },
+  {
+   "title": "選挙",
+   "kind": "other",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_4/1rinji/r4-senkyo.html",
+   "pdfs": [],
+   "rows": [
+    {
+     "no": "1",
+     "title": "副議長選挙\n（田村 英樹）",
+     "date": "令和4年5月27日",
+     "result": "当選",
+     "committee": "なし"
+    }
+   ]
+  },
+  {
+   "title": "同意",
+   "kind": "doi",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_4/1rinji/r4-doi.html",
+   "pdfs": [],
+   "rows": [
+    {
+     "no": "1",
+     "title": "議員選出監査委員\n（塩野目 正樹）",
+     "date": "令和4年5月27日",
+     "result": "同意",
+     "committee": "なし"
+    },
+    {
+     "no": "2",
+     "title": "議員選出監査委員\n（田島 和雄）",
+     "date": "令和4年5月27日",
+     "result": "同意",
+     "committee": "なし"
+    }
+   ]
+  }
+ ]
+}

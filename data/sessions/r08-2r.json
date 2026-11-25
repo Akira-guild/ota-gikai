@@ -1,0 +1,165 @@
+{
+ "id": "r08-2r",
+ "name": "令和8年第2回臨時会",
+ "era": 8,
+ "n": 2,
+ "type": "rinji",
+ "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2rinji/index.html",
+ "pages": [
+  {
+   "title": "区長提出議案",
+   "kind": "kucho",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2rinji/r802rinji_kuchogian.html",
+   "pdfs": [
+    {
+     "label": "第76号議案（PDF：256KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2rinji/r802rinji_kuchogian.files/r0802rinjikuchogian76.pdf"
+    },
+    {
+     "label": "第77号議案（PDF：38KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2rinji/r802rinji_kuchogian.files/r0802rinjikuchogian77.pdf"
+    }
+   ],
+   "rows": [
+    {
+     "no": "76",
+     "title": "令和８年度大田区一般会計補正予算（第３次）",
+     "date": "令和8年7月21日",
+     "result": "原案可決\n（賛成者多数）",
+     "committee": "総務財政"
+    },
+    {
+     "no": "77",
+     "title": "大田区公共工事に係る特別措置に関する条例を廃止する条例",
+     "date": "令和8年7月21日",
+     "result": "原案可決\n（賛成者多数）",
+     "committee": "総務財政"
+    }
+   ]
+  },
+  {
+   "title": "議員提出議案",
+   "kind": "giin",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2rinji/r0802rinji_giingian.html",
+   "pdfs": [
+    {
+     "label": "第2号議案（PDF：99KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2rinji/r0802rinji_giingian.files/r0802rinjigiingian2.pdf"
+    },
+    {
+     "label": "第3号議案（PDF：73KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2rinji/r0802rinji_giingian.files/r0802rinjigiingian3.pdf"
+    }
+   ],
+   "rows": [
+    {
+     "no": "2",
+     "title": "地方自治法（昭和22年法律第67号）第180条第１項の規定に基づく区長の専決処分について",
+     "date": "令和8年7月21日",
+     "result": "原案可決\n（賛成者多数）",
+     "committee": "総務財政"
+    },
+    {
+     "no": "3",
+     "title": "大田区議会の議決に付すべき契約、財産又は公の施設に関する条例の一部を改正する条例",
+     "date": "令和8年7月21日",
+     "result": "原案可決\n（賛成者多数）",
+     "committee": "総務財政"
+    }
+   ]
+  },
+  {
+   "title": "意見が異なった議案に対する各会派の態度",
+   "kind": "taido",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/2rinji/0802rinji_taido.html",
+   "pdfs": [],
+   "rows": [
+    {
+     "no": "76",
+     "title": "令和８年度大田区一般会計補正予算（第３次）",
+     "votes": {
+      "自民・無所属": "賛成",
+      "公明": "賛成",
+      "無所属": "賛成\n棄権１",
+      "共産": "賛成",
+      "立憲": "賛成",
+      "維新": "賛成",
+      "フェア民": "反対",
+      "れ新": "賛成",
+      "子ども防災": "賛成",
+      "創志": "賛成",
+      "国民": "賛成"
+     },
+     "result": "原案\n可決"
+    },
+    {
+     "no": "77",
+     "title": "大田区公共工事に係る特別措置に関する条例を廃止する条例",
+     "votes": {
+      "自民・無所属": "賛成",
+      "公明": "賛成",
+      "無所属": "賛成\n棄権１",
+      "共産": "賛成",
+      "立憲": "賛成",
+      "維新": "賛成",
+      "フェア民": "反対",
+      "れ新": "賛成",
+      "子ども防災": "賛成",
+      "創志": "賛成",
+      "国民": "賛成"
+     },
+     "result": "原案\n可決"
+    },
+    {
+     "no": "議2",
+     "title": "地方自治法（昭和22年法律第67号）第180条第１項の規定に基づく区長の専決処分について",
+     "votes": {
+      "自民・無所属": "賛成",
+      "公明": "賛成",
+      "無所属": "賛成\n棄権１",
+      "共産": "賛成",
+      "立憲": "賛成",
+      "維新": "賛成",
+      "フェア民": "反対",
+      "れ新": "賛成",
+      "子ども防災": "賛成",
+      "創志": "反対",
+      "国民": "賛成"
+     },
+     "result": "原案\n可決"
+    },
+    {
+     "no": "議3",
+     "title": "大田区議会の議決に付すべき契約、財産又は公の施設に関する条例の一部を改正する条例",
+     "votes": {
+      "自民・無所属": "賛成",
+      "公明": "賛成",
+      "無所属": "賛成\n棄権１",
+      "共産": "賛成",
+      "立憲": "賛成",
+      "維新": "賛成",
+      "フェア民": "反対",
+      "れ新": "賛成",
+      "子ども防災": "賛成",
+      "創志": "賛成",
+      "国民": "賛成"
+     },
+     "result": "原案\n可決"
+    }
+   ],
+   "factions": [
+    "自民・無所属",
+    "公明",
+    "無所属",
+    "共産",
+    "立憲",
+    "維新",
+    "フェア民",
+    "れ新",
+    "子ども防災",
+    "創志",
+    "国民"
+   ]
+  }
+ ]
+}

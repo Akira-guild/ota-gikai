@@ -1,0 +1,528 @@
+{
+ "id": "r08-4t",
+ "name": "令和8年第4回定例会",
+ "era": 8,
+ "n": 4,
+ "type": "teirei",
+ "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/4teirei/index.html",
+ "pages": [
+  {
+   "title": "区長提出議案",
+   "kind": "kucho",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/4teirei/r0804teirei_kuchogian.html",
+   "pdfs": [
+    {
+     "label": "第103号議案（PDF：161KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/4teirei/r0804teirei_kuchogian.files/r0804kuchogian103.pdf"
+    },
+    {
+     "label": "第104号議案から第110号議案（PDF：486KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/4teirei/r0804teirei_kuchogian.files/r0804kuchogian104_110.pdf"
+    },
+    {
+     "label": "第111号議案から第130号議案（PDF：1,125KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/4teirei/r0804teirei_kuchogian.files/r0804kuchogian111_130.pdf"
+    },
+    {
+     "label": "第131号議案から第137号議案（PDF：638KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/4teirei/r0804teirei_kuchogian.files/r0804kuchogian131_137.pdf"
+    }
+   ],
+   "rows": [
+    {
+     "no": "103",
+     "title": "令和８年度大田区一般会計補正予算（第５次）",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "104",
+     "title": "大田区行政手続における特定の個人を識別するための番号の利用等に関する条例の一部を改正する条例",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "105",
+     "title": "大田区国民健康保険条例の一部を改正する条例",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "106",
+     "title": "大田区立水泳場条例に規定する萩中公園水泳場の供用停止に関する条例",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "107",
+     "title": "大田区産業のまちづくり条例",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "108",
+     "title": "大田区旅館業法施行条例の一部を改正する条例",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "109",
+     "title": "大田区住宅宿泊事業法施行条例の一部を改正する条例",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "110",
+     "title": "大田区廃棄物の減量及び適正処理に関する条例の一部を改正する条例",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "111",
+     "title": "建物の取得について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "112",
+     "title": "大田区立東調布中学校及び仮称東調布中学校併設図書館改築その他工事（Ⅰ期）請負契約について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "113",
+     "title": "萩中公園水泳場大規模改修工事請負契約について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "114",
+     "title": "萩中公園水泳場大規模改修電気設備工事請負契約について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "115",
+     "title": "大田区立特別養護老人ホーム蒲田ほか４施設大規模改修機械設備工事請負契約について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "116",
+     "title": "大田区立東調布中学校及び仮称東調布中学校併設図書館改築その他機械設備工事（Ⅰ期）請負契約について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "117",
+     "title": "萩中公園水泳場大規模改修機械設備工事請負契約について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "118",
+     "title": "大田区立石川台中学校校舎改築その他機械設備工事（Ⅰ期）請負契約について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "119",
+     "title": "建物明渡し等の請求に関する民事訴訟の提起について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "120",
+     "title": "臨海部広域斎場組合規約の一部を変更する規約に関する協議について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "121",
+     "title": "大田区大森北四丁目複合施設の指定管理者の指定について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "122",
+     "title": "大森北区民活動施設の指定管理者の指定について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "123",
+     "title": "大田区立水泳場の指定管理者の指定について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "124",
+     "title": "大田区テンポラリー工場の指定管理者の指定について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "125",
+     "title": "大田区中小企業者賃貸住宅の指定管理者の指定について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "126",
+     "title": "大田区産業プラザの指定管理者の指定について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "127",
+     "title": "大田区立本羽田二丁目第２工場アパートの指定管理者の指定について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "128",
+     "title": "大田区立はぎなか園の指定管理者の指定について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "129",
+     "title": "大田区営住宅の指定管理者の指定について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "130",
+     "title": "大田区民住宅の指定管理者の指定について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "131",
+     "title": "大田区長等の給料等に関する条例の一部を改正する条例",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "132",
+     "title": "大田区行政委員会の委員の報酬及び費用弁償に関する条例の一部を改正する条例",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "133",
+     "title": "大田区監査委員の給与等に関する条例の一部を改正する条例",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "134",
+     "title": "職員の給与に関する条例の一部を改正する条例",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "135",
+     "title": "会計年度任用職員の給与及び費用弁償に関する条例の一部を改正する条例",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "136",
+     "title": "大田区教育委員会教育長の給与等に関する条例の一部を改正する条例",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "137",
+     "title": "大田区議会議員の議員報酬、費用弁償及び期末手当に関する条例の一部を改正する条例",
+     "date": "",
+     "result": "",
+     "committee": ""
+    }
+   ]
+  },
+  {
+   "title": "報告",
+   "kind": "hokoku",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/4teirei/r0804teirei_hokoku.html",
+   "pdfs": [
+    {
+     "label": "報告第58号から第72号（PDF：860KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/4teirei/r0804teirei_hokoku.files/r0804hokoku58_72.pdf"
+    }
+   ],
+   "rows": [
+    {
+     "no": "58",
+     "title": "民事訴訟の提起に係る専決処分の報告について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "59",
+     "title": "民事訴訟の提起に係る専決処分の報告について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "60",
+     "title": "区の義務に属する損害賠償額決定に係る専決処分の報告について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "61",
+     "title": "大田区立矢口西小学校校舎改築その他工事請負契約の専決処分の報告について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "62",
+     "title": "大田区立入新井第二小学校校舎改築その他工事（Ⅰ期）請負契約の専決処分の報告について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "63",
+     "title": "大田区立石川台中学校校舎改築その他工事（Ⅰ期）請負契約の専決処分の報告について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "64",
+     "title": "大田区立特別養護老人ホーム蒲田ほか４施設大規模改修工事請負契約の専決処分の報告について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "65",
+     "title": "大田区産業プラザ大規模改修工事請負契約の専決処分の報告について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "66",
+     "title": "大田区池上会館特定天井及び内部改修その他工事請負契約の専決処分の報告について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "67",
+     "title": "大田区営大森東一丁目住宅及び大田区立大森東福祉園外壁改修その他工事請負契約の専決処分の報告について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "68",
+     "title": "大田区立大森第一中学校校舎棟外壁改修工事（Ⅱ期）及びサッシュ改修その他工事請負契約の専決処分の報告について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "69",
+     "title": "大田区立入新井第二小学校校舎改築その他電気設備工事（Ⅰ期）請負契約の専決処分の報告について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "70",
+     "title": "大田区立入新井第二小学校校舎改築その他機械設備工事（Ⅰ期）請負契約の専決処分の報告について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "71",
+     "title": "大田区立矢口西小学校校舎改築その他機械設備工事請負契約の専決処分の報告について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "72",
+     "title": "大田区産業プラザ大規模改修機械設備工事請負契約の専決処分の報告について",
+     "date": "",
+     "result": "",
+     "committee": ""
+    }
+   ]
+  },
+  {
+   "title": "議員提出議案",
+   "kind": "giin",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/4teirei/r0804teirei_giingian.html",
+   "pdfs": [
+    {
+     "label": "第6号議案から第8号議案（PDF：399KB）",
+     "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/4teirei/r0804teirei_giingian.files/r0804giingian6_8.pdf"
+    }
+   ],
+   "rows": [
+    {
+     "no": "6",
+     "title": "大田区議会議員の議員報酬、費用弁償及び期末手当に関する条例の一部を改正する条例",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "7",
+     "title": "大田区高齢者介護応援手当条例",
+     "date": "",
+     "result": "",
+     "committee": ""
+    },
+    {
+     "no": "8",
+     "title": "大田区世帯向け家賃助成に関する条例",
+     "date": "",
+     "result": "",
+     "committee": ""
+    }
+   ]
+  },
+  {
+   "title": "請願・陳情",
+   "kind": "seichin",
+   "url": "https://www.city.ota.tokyo.jp/gikai/kugikai_katsudou/honkaigi/r_8/4teirei/r0804seichin.html",
+   "pdfs": [],
+   "rows": [
+    {
+     "no": "8第47号",
+     "title": "平和の森公園の庭球場の利用時間に関する陳情",
+     "referred": "令和8年11月27日",
+     "committee": "まちづくり環境",
+     "date": "",
+     "result": ""
+    },
+    {
+     "no": "8第49号",
+     "title": "ＪＲ蒲田駅の発車メロディーに関する陳情",
+     "referred": "令和8年11月27日",
+     "committee": "交通政策\n調査特別",
+     "date": "",
+     "result": ""
+    },
+    {
+     "no": "8第50号",
+     "title": "京浜東北線ワンマン運転への区の対応に関する陳情",
+     "referred": "令和8年11月27日",
+     "committee": "交通政策\n調査特別",
+     "date": "",
+     "result": ""
+    },
+    {
+     "no": "8第51号",
+     "title": "羽田エアポートライン株式会社設立時の収支見通しに関する議会審査の検証を求める陳情",
+     "referred": "令和8年11月27日",
+     "committee": "交通政策\n調査特別",
+     "date": "",
+     "result": ""
+    },
+    {
+     "no": "8第52号",
+     "title": "新空港線計画説明会を大田区主催で開催することを求める陳情",
+     "referred": "令和8年11月27日",
+     "committee": "交通政策\n調査特別",
+     "date": "",
+     "result": ""
+    },
+    {
+     "no": "8第53号",
+     "title": "政務活動費不正受給についての調査報告書を本会議などで決議されることを求める陳情",
+     "referred": "令和8年11月27日",
+     "committee": "議会運営",
+     "date": "",
+     "result": ""
+    },
+    {
+     "no": "8第54号",
+     "title": "開発許可不要との判断及び造成工事の確認に関する陳情",
+     "referred": "令和8年11月27日",
+     "committee": "まちづくり環境",
+     "date": "",
+     "result": ""
+    },
+    {
+     "no": "8第57号",
+     "title": "大田区選挙管理委員会の業務の抜本的な見直しを求める陳情",
+     "referred": "令和8年11月27日",
+     "committee": "総務財政",
+     "date": "",
+     "result": ""
+    },
+    {
+     "no": "8第65号",
+     "title": "新空港線（蒲蒲線）速達性向上計画の内容確認を求める陳情",
+     "referred": "令和8年11月27日",
+     "committee": "交通政策\n調査特別",
+     "date": "",
+     "result": ""
+    },
+    {
+     "no": "8第66号",
+     "title": "新空港線（蒲蒲線）都市計画素案の説明パンフの誤り訂正を求める陳情",
+     "referred": "令和8年11月27日",
+     "committee": "交通政策\n調査特別",
+     "date": "",
+     "result": ""
+    },
+    {
+     "no": "8第67号",
+     "title": "新空港線（蒲蒲線）都市計画素案Ｑ＆Ａの回答見直しを求める陳情",
+     "referred": "令和8年11月27日",
+     "committee": "交通政策\n調査特別",
+     "date": "",
+     "result": ""
+    }
+   ]
+  }
+ ]
+}
