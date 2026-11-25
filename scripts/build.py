@@ -173,13 +173,13 @@ def load():
 
 # ---------- 共通部品 ----------
 CSS = """
-:root{--brand:#0a6cd6;--brand-d:#0753a6;--accent:#ff7a1a;--ink:#1b1f24;--sub:#5d6670;--line:#e3e7ec;--bg:#f4f7fa;--card:#fff;
---ok:#0b7a43;--okbg:#e6f6ee;--ng:#b42318;--ngbg:#fdecea;--mid:#7a5a00;--midbg:#fff6dc;--chip:#eef4fb;
---grad:linear-gradient(100deg,#0a6cd6 0%,#2b8ef0 55%,#ff7a1a 100%)}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--brand:#5aa8ff;--brand-d:#8cc2ff;--accent:#ff9a4d;--ink:#e8ecf1;--sub:#9aa5b1;--line:#2a323c;--bg:#11161c;--card:#1a2129;
---ok:#5fd39a;--okbg:#12301f;--ng:#ff8a80;--ngbg:#3a1a18;--mid:#ffd166;--midbg:#352a0d;--chip:#1f2b38}}
-:root[data-theme="dark"]{--brand:#5aa8ff;--brand-d:#8cc2ff;--accent:#ff9a4d;--ink:#e8ecf1;--sub:#9aa5b1;--line:#2a323c;--bg:#11161c;--card:#1a2129;
---ok:#5fd39a;--okbg:#12301f;--ng:#ff8a80;--ngbg:#3a1a18;--mid:#ffd166;--midbg:#352a0d;--chip:#1f2b38}
+:root{--brand:#b8325a;--brand-d:#9a2448;--accent:#2e7d4f;--ink:#1f1b1d;--sub:#6a6064;--line:#ece4e6;--bg:#faf6f4;--card:#fff;
+--ok:#2e7d4f;--okbg:#e7f3ec;--ng:#3a3a3a;--ngbg:#ececec;--mid:#66652a;--midbg:#f3f2df;--chip:#fbeef1;
+--grad:linear-gradient(100deg,#9a2448 0%,#c23a62 55%,#d65a7c 100%)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--brand:#f08aa6;--brand-d:#f5a9bd;--accent:#6fcf97;--ink:#efe8ea;--sub:#aaa0a4;--line:#3a2e33;--bg:#171214;--card:#221a1d;
+--ok:#6fcf97;--okbg:#14301f;--ng:#d6d6d6;--ngbg:#333;--mid:#d6d38a;--midbg:#2f2e14;--chip:#3a2029}}
+:root[data-theme="dark"]{--brand:#f08aa6;--brand-d:#f5a9bd;--accent:#6fcf97;--ink:#efe8ea;--sub:#aaa0a4;--line:#3a2e33;--bg:#171214;--card:#221a1d;
+--ok:#6fcf97;--okbg:#14301f;--ng:#d6d6d6;--ngbg:#333;--mid:#d6d38a;--midbg:#2f2e14;--chip:#3a2029}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:"Noto Sans JP",system-ui,sans-serif;line-height:1.85;font-size:16px;letter-spacing:.03em;-webkit-font-smoothing:antialiased}
 a{color:var(--brand-d)}
@@ -189,6 +189,8 @@ header.site .wrap{padding-top:12px;padding-bottom:12px;display:flex;align-items:
 .logo{font-weight:700;font-size:17px;text-decoration:none;color:var(--ink);display:flex;align-items:center;gap:9px;letter-spacing:.06em}
 .logo svg{width:30px;height:30px;flex:none}
 .logo span{background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .logo span{background:linear-gradient(100deg,#f08aa6,#f7b9c9);-webkit-background-clip:text;background-clip:text}}
+:root[data-theme="dark"] .logo span{background:linear-gradient(100deg,#f08aa6,#f7b9c9);-webkit-background-clip:text;background-clip:text}
 header nav{margin-left:auto;display:flex;gap:14px;font-size:14px}
 header nav a{color:var(--sub);text-decoration:none}
 h1{font-size:25px;line-height:1.5;margin:28px 0 12px;letter-spacing:.05em}
@@ -201,7 +203,7 @@ section{margin:40px 0}
 .hero h1{margin:0 0 8px;font-size:28px;color:#fff}
 .hero p{margin:0;opacity:.95}
 .hero .en{font-size:11px;letter-spacing:.2em;opacity:.85}
-.hero svg.plane{position:absolute;right:-10px;bottom:-14px;width:150px;opacity:.18}
+.hero svg.plane{position:absolute;right:-18px;bottom:-26px;width:170px;opacity:.22}
 .stats{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:16px}
 .stat{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px;text-align:center}
 .stat b{display:block;font-size:24px;color:var(--brand)}
@@ -249,8 +251,8 @@ details summary{cursor:pointer;color:var(--brand-d)}
 @media (max-width:520px){.hero h1{font-size:23px}.grid2{grid-template-columns:1fr}.stat b{font-size:20px}header nav{gap:10px;font-size:13px}}
 """
 
-LOGO = """<svg viewBox="0 0 32 32" aria-hidden="true"><defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#0a6cd6"/><stop offset="1" stop-color="#ff7a1a"/></linearGradient></defs><rect x="1" y="1" width="30" height="30" rx="9" fill="url(#g)"/><path d="M7 19l18-7-4 9-4-2-3 4-1-5z" fill="#fff"/></svg>"""
-PLANE = """<svg class="plane" viewBox="0 0 64 64" aria-hidden="true"><path fill="#fff" d="M60 8L4 30l18 6 4 18 8-12 12 8z"/></svg>"""
+LOGO = """<svg viewBox="0 0 32 32" aria-hidden="true"><defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#9a2448"/><stop offset="1" stop-color="#d65a7c"/></linearGradient></defs><rect x="1" y="1" width="30" height="30" rx="9" fill="url(#g)"/><circle cx="16.00" cy="10.30" r="5" fill="#fff"/><circle cx="21.90" cy="14.58" r="5" fill="#fff"/><circle cx="19.64" cy="21.52" r="5" fill="#fff"/><circle cx="12.36" cy="21.52" r="5" fill="#fff"/><circle cx="10.10" cy="14.58" r="5" fill="#fff"/><circle cx="16" cy="16.5" r="3" fill="#f3c74f"/></svg>"""
+PLANE = """<svg class="plane" viewBox="0 0 64 64" aria-hidden="true"><circle cx="32.00" cy="19.00" r="11" fill="#fff"/><circle cx="44.36" cy="27.98" r="11" fill="#fff"/><circle cx="39.64" cy="42.52" r="11" fill="#fff"/><circle cx="24.36" cy="42.52" r="11" fill="#fff"/><circle cx="19.64" cy="27.98" r="11" fill="#fff"/><circle cx="32" cy="32" r="6" fill="#9a2448" opacity=".35"/></svg>"""  # 区の花・ウメ
 
 
 def page(title, body, depth=0, desc=""):
